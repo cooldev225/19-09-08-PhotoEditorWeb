@@ -1,0 +1,9 @@
+BuddyWisher
+This team have a huge range of specialisms, from web design, business analysis, creative design to merchandising and development.
+Now a household name for personalised cards and gifts, pay a visit to Buddy Pigeon.com to see the extensive range of products we offer. Since WHSmith bought Buddy Pigeon in 2010, turnover has rocketed. We continue to invest in customer experience and apps and we’re always looking for new opportunities. Working to give our brand unique selling points over our competitors, we work in an innovative and creative way.
+
+Our working atmosphere is challenging but excitingly fast-paced, with all our projects carried out from start to finish in house. Based primarily in Bristol, our highly motivated team of around 30 people work closely with our Head Office functions in Swindon. We also have a fulfilment centre in Guernsey where our cards and gifts are produced.
+
+With this kind of growth, now’s a great time to join. You’ll evolve with the business, learning new skills and enjoying progression. What’s more, you’ll see your hard work have an immediate impact. Every contribution affects the success of the site. However, to excel, you must be creative and full of ideas: for product ranges, card designs or technical development. In a small team like this, commitment is essential. In return, whatever your level, you’ll be seen as an equal in a fun, successful business. You’ll get to put forward ideas and make decisions, but it’s all hands on deck when things get busy! At peak periods such as Christmas and Valentine’s, you’ll be dealing with large volumes of traffic and orders, as part of this strong, close-knit team.
+
+Wan

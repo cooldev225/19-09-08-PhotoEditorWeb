@@ -1,0 +1,143 @@
+@charset "utf-8";
+/* CSS Document */
+
+.buttonPinkOnTransparentOrderConfirm{display:block; background-image:url("Images/Buttons/V5Buttons_81.gif"); background-position:top left ; background-repeat:no-repeat; width:14.65em; height:1.8em; text-align:left; cursor:pointer; padding-top:0.3em; padding-bottom:0.6em; color:White; font-weight:bold; font-style:normal; font-size:12px; text-decoration:none}
+.buttonPinkOnTransparentBasket{display:block; background-image:url("Images/Buttons/HyperactiveOnTransparent.gif"); background-position:top left; background-repeat:no-repeat; width:9.65em; height:1.8em; text-align:center; cursor:pointer; padding-top:0.3em; padding-bottom:0.6em; color:White; font-weight:bold; font-style:normal; font-size:12px; text-decoration:none}
+.buttonBackToMe{display:block; background-image:url("Images/Buttons/send_to_back_to_me.gif"); background-position:top left; background-repeat:no-repeat; width:179px; height:32px;  text-align:center; cursor:pointer; color:White; font-weight:bold; font-style:normal; font-size:12px; text-decoration:none}
+
+.buttonContShopping{display:block; background-image:url("Images/Buttons/contShopping.gif"); background-position:top left ; background-repeat:no-repeat; width:211px; height:31px; text-align:center; cursor:pointer; padding-top:0.3em; padding-bottom:0.6em; color:White; font-weight:bold; font-style:normal; font-size:12px; text-decoration:none}
+
+.buttonUpdate{display:block; background-image:url("Images/Buttons/updateCart.gif"); background-position:top left ; background-repeat:no-repeat; width:132px; height:24px; text-align:center; cursor:pointer; padding-top:0.3em; padding-bottom:0.6em; color:White; font-weight:bold; font-style:normal; font-size:12px; text-decoration:none}
+
+/*.buttonCheckout{display:block; background-image:url("Images/Buttons/checkout.gif"); background-position:top left ; background-repeat:no-repeat; width:149px; height:30px; text-align:center; cursor:pointer; padding-top:0.3em; padding-bottom:0.6em; color:White; font-weight:bold; font-style:normal; font-size:12px; text-decoration:none}*/
+
+.directTo{display:block; background-image:url("Images/Buttons/send_to_direct.gif"); background-position:top left; background-repeat:no-repeat; width:179px; height:32px; text-align:center; cursor:pointer; color:White; font-weight:bold; font-style:normal; font-size:12px; text-decoration:none}
+
+
+
+.buttonNext {display:block; float:right; background-image:url("Images/Buttons/NextStep.gif"); background-position:0 0; background-repeat:no-repeat; width:114px; height:25px; text-align:center; cursor:pointer; margin:4px 0 0 0; }
+
+.buttonNextNEW {display:block; float:right; background-image:url("Images/Buttons/NextStep.gif"); background-position:0 6px; background-repeat:no-repeat; width:114px; height:32px; cursor:pointer;}
+
+.buttonNextNEWimg {display:block; float:right; width:114px; height:25px; cursor:pointer; padding:6px 0 0 0;}
+
+
+
+.buttonMainMenu {display:block; background-image:url("Images/Buttons/MainMenu.gif"); background-position:0 0; background-repeat:no-repeat; width:120px; height:20px; text-align:center; cursor:pointer; margin: 2px 0 0 8px;}
+
+
+
+.buttonMainMenuHOME {display:block; background-image:url("Images/Buttons/MainMenu.gif"); background-position:0 0; background-repeat:no-repeat; width:120px; height:32px; text-align:center; cursor:pointer; margin: 5px 0 0 8px;}
+
+
+
+.buttonMainMenuNEW {display:block; background-image:url("Images/Buttons/MainMenu.gif"); background-position:0 7px ; background-repeat:no-repeat; width:120px; height:32px; text-align:center; cursor:pointer;}
+
+
+
+.buttonTurnLeft{display:block; background:url("Images/Buttons/TurnPageL.gif") 0 26px no-repeat; width:142px; height:95px; text-align:center; cursor:pointer; padding-top:0.3em; padding-bottom:0.6em; color:White; font-weight:bold; font-style:normal; font-size:12px; text-decoration:none}
+
+.buttonTurnRight{display:block; background:url("Images/Buttons/TurnPageR.gif") 0 26px no-repeat; width:142px; height:95px; text-align:center; cursor:pointer; padding-top:0.3em; padding-bottom:0.6em; color:White; font-weight:bold; font-style:normal; font-size:12px; text-decoration:none}
+
+.buttonTurnUp{display:block; background-image:url("Images/Buttons/TurnPageU.gif"); background-position:top left; background-repeat:no-repeat; width:150px; height:60px; margin:20px 0 0 0; text-align:center; cursor:pointer; padding-top:0.3em; padding-bottom:0.6em; color:White; font-weight:bold; font-style:normal; font-size:12px; text-decoration:none}
+
+.buttonTurnDown{display:block; background-image:url("Images/Buttons/TurnPageD.gif"); background-position:16px left ; background-repeat:no-repeat; width:150px; height:80px; text-align:center; cursor:pointer; padding-top:0.3em; padding-bottom:0.6em; color:White; font-weight:bold; font-style:normal; font-size:12px; text-decoration:none}
+
+
+
+.buttonBackNEW {display:block; float:right; background-image:url("Images/Buttons/Back.gif"); background-position: 0 6px ; padding:6px 0 0 0; background-repeat:no-repeat; width:74px; height:25px; cursor:pointer;}
+
+.buttonBackNEWimg {display:block; float:right; padding:6px 0 0 0; width:74px; height:25px; cursor:pointer;}
+
+
+
+.buttonEdit{display:block; background-image:url("Images/Buttons/Edit.jpg"); background-position:top left ; background-repeat:no-repeat; width:68px; height:24px; text-align:center; cursor:pointer; padding-top:0.3em; padding-bottom:0.6em; color:White; font-weight:bold; font-style:normal; font-size:12px; text-decoration:none}
+
+.buttonDelete{display:block; background-image:url("Images/Buttons/Delete.jpg"); background-position:top left ; background-repeat:no-repeat; width:68px; height:23px; text-align:center; cursor:pointer; padding-top:0.3em; padding-bottom:0.6em; color:White; font-weight:bold; font-style:normal; font-size:12px; text-decoration:none}
+
+.buttonAddReminder{display:block; background-image:url("Images/Buttons/AddReminder.gif"); background-position:top left ; background-repeat:no-repeat; width:153px; height:30px; text-align:center; cursor:pointer; padding-top:0.3em; padding-bottom:0.6em; color:White; font-weight:bold; font-style:normal; font-size:12px; text-decoration:none; margin:8px 0 0 0}
+
+.buttonPreview2 {display:block; background-image:url("Images/Buttons/V5Buttons_120.gif"); background-position: right  center  ; background-repeat:no-repeat; width:150px; height:24px; text-align:center; cursor:pointer; padding-top:0.3em; padding-bottom:0.6em; color:White; font-weight:bold; font-style:normal; font-size:12px; text-decoration:none}
+
+
+
+
+
+
+.buttonReset{display:block; background-image:url("Images/Buttons/btn_reset_password.gif"); background-position:top left ; background-repeat:no-repeat; width:140px; height:33px; text-align:center; cursor:pointer; color:White; font-weight:bold; font-style:normal; font-size:12px; text-decoration:none; margin:12px 0 0 0;}
+
+.buttonResetOld{display:block; background-image:url("Images/Buttons/Reset.gif"); background-position:top left ; background-repeat:no-repeat; width:68px; height:24px; text-align:center; cursor:pointer; color:White; font-weight:bold; font-style:normal; font-size:12px; text-decoration:none; margin:12px 0 0 0;padding-top: 0.3em;
+padding-bottom: 0.6em;}
+
+.buttonEditDetails{display:block; background-image:url("Images/Buttons/editDetails.gif"); background-position:top left ; background-repeat:no-repeat; width:120px; height:24px; text-align:center; cursor:pointer; padding-top:0.3em; padding-bottom:0.6em; color:White; font-weight:bold; font-style:normal; font-size:12px; text-decoration:none}
+
+
+.buttonLogin{display:block; background-image:url("Images/Buttons/Login.gif"); background-position:top left ; background-repeat:no-repeat; width:68px; height:24px; text-align:center; cursor:pointer; padding-top:0.3em; padding-bottom:0.6em; color:White; font-weight:bold; font-style:normal; font-size:12px; text-decoration:none}
+
+.buttonLogin2{display:block; background-image:url("Images/Buttons/loginpurple.gif"); background-position:top left ; background-repeat:no-repeat; width:120px; height:24px; text-align:center; cursor:pointer; padding-top:0.3em; padding-bottom:0.6em; color:White; font-weight:bold; font-style:normal; font-size:12px; text-decoration:none}
+
+.buttonAddName{display:block; background-image:url("Images/Buttons/AddName.gif"); background-position:top left ; background-repeat:no-repeat; width:120px; height:24px; text-align:center; cursor:pointer; padding-top:0.3em; padding-bottom:0.6em; color:White; font-weight:bold; font-style:normal; font-size:12px; text-decoration:none}
+
+.buttonCheckEmail{display:block; background-image:url("Images/Buttons/btn_retrieve.gif"); background-position:top left ; background-repeat:no-repeat; width:118px; height:34px; text-align:center; cursor:pointer; padding-top:0; padding-bottom:0; color:White; font-weight:bold; font-style:normal; font-size:12px; text-decoration:none; margin:-8px 0 0 0;}
+
+.buttonSelectAll{display:block; background-image:url("Images/Buttons/SelectAll.jpg"); background-position:top left ; background-repeat:no-repeat; width:120px; height:24px; text-align:center; cursor:pointer; padding-top:0.3em; padding-bottom:0.6em; color:White; font-weight:bold; font-style:normal; font-size:12px; text-decoration:none}
+
+.buttonDeSelect{display:block; background-image:url("Images/Buttons/DeselectAll.jpg"); background-position:top left ; background-repeat:no-repeat; width:120px; height:24px; text-align:center; cursor:pointer; padding-top:0.3em; padding-bottom:0.6em; color:White; font-weight:bold; font-style:normal; font-size:12px; text-decoration:none}
+
+.buttonDelSelect{display:block; background-image:url("Images/Buttons/DelSelected.gif"); background-position:top left ; background-repeat:no-repeat; width:120px; height:24px; text-align:center; cursor:pointer; padding-top:0.3em; padding-bottom:0.6em; color:White; font-weight:bold; font-style:normal; font-size:12px; text-decoration:none}
+
+.buttonNewAdd{display:block; background-image:url("Images/Buttons/AddnewContact.gif"); background-position:top left ; background-repeat:no-repeat; width:120px; height:24px; text-align:center; cursor:pointer; padding-top:0.3em; padding-bottom:0.6em; color:White; font-weight:bold; font-style:normal; font-size:12px; text-decoration:none}
+
+.buttonAddRecipient{display:block; background-image:url("Images/Buttons/AddRecipient.jpg"); background-position:top left ; background-repeat:no-repeat; width:120px; height:24px; text-align:center; cursor:pointer; padding-top:0.3em; padding-bottom:0.6em; color:White; font-weight:bold; font-style:normal; font-size:12px; text-decoration:none}
+
+/*.buttonCreateAccount{display:block; background-image:url("Images/Buttons/CreateAccount.jpg"); background-position:top left ; background-repeat:no-repeat; width:144px; height:30px; text-align:center; cursor:pointer; padding-top:0.3em; padding-bottom:0.6em; color:White; font-weight:bold; font-style:normal; font-size:12px; text-decoration:none}*/
+
+.buttonCreateAccount2{display:block; background-image:url("Images/Buttons/CreateAcGreen.gif"); background-position:top left ; background-repeat:no-repeat; width:148px; height:31px; text-align:center; cursor:pointer; color:White; font-weight:bold; font-style:normal; font-size:12px; text-decoration:none}
+
+/*.register_flow{display:block; background-image:url("Images/Buttons/btn_register_flow.gif"); width:153px; height:43px; margin:44px 138px 0 0;
+	float:right;
+	clear:both;
+	curser:pointer;}*/
+
+.buttonContinue{display:block; background-image:url("Images/Buttons/continue.gif"); background-position:top left ; background-repeat:no-repeat; width:120px; height:24px; text-align:center; cursor:pointer; padding-top:0.3em; padding-bottom:0.6em; color:White; font-weight:bold; font-style:normal; font-size:12px; text-decoration:none}
+
+/*.buttonPayNowBasket2{float:right; display:block; margin:0 0 0 10px; background-image:url("Images/Buttons/V5Buttons_201.gif"); background-position:top left ; background-repeat:no-repeat; width:144px; height:30px; text-align:center; cursor:pointer; padding-top:0.3em; padding-bottom:0.6em; color:White; font-weight:bold; font-style:normal; font-size:12px; text-decoration:none}*/
+
+.buttonTellaFriend{display:block; background-image:url("Images/Buttons/CheckEmail.gif"); background-position:top left ; background-repeat:no-repeat; width:180px; height:40px; text-align:center; cursor:pointer; padding-top:0.3em; padding-bottom:0.6em; color:White; font-weight:bold; font-style:normal; font-size:12px; text-decoration:none}
+
+.buttonImportContact{display:block; background-image:url("Images/Buttons/ImportContact.gif"); background-position:top left ; background-repeat:no-repeat; width:120px; height:24px; text-align:center; cursor:pointer; padding-top:0.3em; padding-bottom:0.6em; color:White; font-weight:bold; font-style:normal; font-size:12px; text-decoration:none}
+
+.buttonImportContactV2{margin:16px 270px 0 0; display:block; background-image:url("Images/Buttons/btn_import_contactsv2.gif"); background-position:top left ; background-repeat:no-repeat; width:164px; height:30px; text-align:center; cursor:pointer; padding-top:0.3em; padding-bottom:0.6em; color:White; font-weight:bold; font-style:normal; font-size:12px; text-decoration:none}
+
+.buttonGetCSVFile{display:block; background-image:url("Images/Buttons/btn_download_template.gif"); background-position:top left ; background-repeat:no-repeat; width:194px; height:31px; text-align:center; cursor:pointer; padding-top:0.3em; padding-bottom:0.6em; color:White; font-weight:bold; font-style:normal; font-size:12px; text-decoration:none}
+
+.buttonCancel{display:block; background-image:url("Images/Buttons/CheckEmail.gif"); background-position:top left ; background-repeat:no-repeat; width:129px; height:27px; text-align:center; cursor:pointer; padding-top:0.3em; padding-bottom:0.6em; color:White; font-weight:bold; font-style:normal; font-size:12px; text-decoration:none}
+
+#hintbox{ /*CSS for pop up hint box */
+position:absolute;
+top: 0;
+background-color: #FFFFFF;
+width: 150px; /*Default width of hint.*/ 
+padding: 3px;
+border:1px solid black;
+font:normal 11px Verdana;
+line-height:18px;
+z-index:100;
+border-right: 3px solid black;
+border-bottom: 3px solid black;
+visibility: hidden;
+}
+
+.hintanchor{ /*CSS for link that shows hint onmouseover*/
+	font-weight: bold;
+	color: navy;
+	margin: 3px 8px;
+}
+
+#image {
+width: 32px;
+height: 32px;
+background: transparent url("Images/ajax-loader.gif") no-repeat top left;
+}
+
+

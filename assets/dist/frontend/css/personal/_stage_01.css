@@ -1,0 +1,127 @@
+
+.card-pdp .sizes_normal li{    visibility:hidden}.size_check .sizes_normal li{visibility:visible}
+.prod-inactive{    background:#cac7c7!important;    box-shadow:0 2px 0 #a9a6a6!important}.product_page_container{width:96%;max-width:994px;margin:auto
+}.product_images{float:left}.product_content{float:right;width:53%}
+.MobileBreadCrumbs{background:#fff!important}.MobileBreadCrumbs a{
+    font-size:14px;background:0 0;position:relative
+}.MobileBreadCrumbs a:after,.MobileBreadCrumbs a:before{
+    content:'';display:block;width:10px;height:3px;
+    background:#555;position:absolute;
+    left:-6px;top:18px;-ms-transform:rotate(45deg);
+    -webkit-transform:rotate(45deg);
+    transform:rotate(45deg)}.MobileBreadCrumbs a:after{-ms-transform:rotate(135deg);-webkit-transform:rotate(135deg);transform:rotate(135deg);top:13px}.product_back_btn a{position:relative;display:inline-block;margin:12px 0;font-size:14px;color:#555;font-weight:700;margin-left:24px}.product_back_btn a:after,.product_back_btn a:before{content:'';display:block;width:10px;height:3px;background:#555;position:absolute;left:-20px;top:9px;-ms-transform:rotate(45deg);-webkit-transform:rotate(45deg);transform:rotate(45deg)}.product_back_btn a:after{-ms-transform:rotate(135deg);-webkit-transform:rotate(135deg);transform:rotate(135deg);top:4px}.personalise_btn{display:inline-block;background:#203750;font-size:22px;font-weight:700;line-height:45px;color:#fff;padding:0 25px;box-shadow:0 2px 0 #232f3e;border-radius:4px;margin-bottom:30px;transition:all ease-in-out .2s}.personalise_btn:hover{background:#232f3e}
+.product_image_holder{width:417px;height:522px;border:1px solid #e4e4e4;position:relative;overflow:hidden;background-color:#f7f7f7;background-image:none!important;background-position:center;background-size:cover}
+.product_image_holder img{position:absolute;margin:auto;top:0;left:0;right:0;bottom:0;box-shadow:0 0 8px rgba(0,0,0,.4);max-width:80%;z-index:2}.product_images p.hover_message{color:#203750;background:url(/Images/productPage/hover_message.png) center left no-repeat;background-size:16px;padding-left:22px;margin-top:10px}.magnify_large{width:200px;height:200px;position:absolute;border-radius:100%;box-shadow:0 0 0 7px rgba(255,255,255,.85),0 0 7px 7px rgba(0,0,0,.25),inset 0 0 40px 2px rgba(0,0,0,.25);display:none;z-index:3;background-repeat:no-repeat;background-color:#fff;background-size:180% auto;opacity:0}.product_image_holder:hover .magnify_large{opacity:1}.product_image_holder::after{content:'';width:67%;height:0;display:block;background:#fff;position:absolute;z-index:1;border:1px solid #eaeaea;left:4%;right:0;top:0;bottom:0;margin:auto}
+.portrait .product_image_holder::after{height:75%}.landscape .product_image_holder::after{width:77%;height:40%;top:7%;left:0}.square .product_image_holder::after{left:3%;height:53%}
+.product_content h1{font-size:20px;line-height:25px;border-bottom:1px solid #e4e4e4;padding-bottom:10px;white-space:nowrap;text-overflow:ellipsis;overflow:hidden;text-transform:capitalize}.product_content .trustpilot-widget.star_rating{text-align:left;padding:8px 0 10px 0!important}
+.product_content .trustpilot-widget.star_rating iframe{width:195px!important;margin:0 0 0 -12px}.product_content .tp-wrapper{height:44px;cursor:pointer}.product_content .tp-wrapper .trustpilot-widget{pointer-events:none}.product_content .tp-wrapper.no_reviews{height:auto;margin-top:10px}.card_size_selection ul{margin-bottom:25px}.card_size_selection li{line-height:19px}.card_size_selection li[data-size="8"]::after{content:" (A4)";font-size:14px}.card_size_selection li[data-size="11"]::after{content:" (A5)";font-size:14px}.card_size_selection li[data-size="10"]::after{content:" (A6)";font-size:14px}.card_size_selection li[data-size="128"]::after,.card_size_selection li[data-size="129"]::after{content:" NEW";font-size:14px;color:#db213c}.card_size_selection li[data-size="128"] span::after{content:" (A3)";font-size:14px}
+.card_size_selection li{display:inline-block;font-size:21px;font-weight:700;color:#555;margin-right:20px;padding-left:30px;background:url(/assets/dist/images/bg_size_tickbox.png) center left no-repeat;background-size:24px auto;cursor:pointer}.card_size_selection li span{font-size:16px}.card_size_selection li.selected_size{background:url(/assets/dist/images/bg_size_tickbox_active.png) center left no-repeat;background-size:24px auto}a.shortlistsave{font-size:14px;margin-left:10px;padding-left:20px;background:url(/Images/productPage/icon_heart.jpg) center left no-repeat;background-size:16px auto;opacity:.5;color:#000}a.shortlistsave:hover{opacity:1}.order_by_message{width:auto;padding:30px 0 30px 110px;margin-bottom:25px;border-top:1px solid #e8e5e5;border-bottom:1px solid #e8e5e5;background:url(/assets/dist/images/stopwatch.png) 25px center no-repeat #fafafa;background-size:63px auto}
+.order_by_message p{font-size:20px;font-weight:700;margin:0 0 4px 0}.order_by_message p span{font-size:19px}.order_by_message p span .countdown_time{font-size:23px;color:#203750}.order_by_message p.obm_more_info{font-size:14px;font-weight:400;color:#203750;margin:0}
+.order_by_message p.obm_more_info span{font-size:14px;font-weight:400;text-decoration:underline;cursor:pointer}.deliveryOptions ul{margin:0}.deliveryOptions ul li{height:auto;margin:0;border-bottom:1px solid #ccc;font-weight:700;font-size:18px;line-height:18px;padding:14px 0 10px;color:#626363}.deliveryOptions ul li:last-of-type{border-bottom:none}.deliveryOptions ul li span{font-size:16px;color:#203750}.no-countdown{padding:20px 30px 10px;background-image:none}.countdown .deliveryOptions,.no-countdown .deliveryCountdown{display:none}.countdown .deliveryCountdown,.no-countdown .deliveryOptions{display:block!important}.CD-first-class .NDtext,.FCtext,.obm_more_info br,.order_by_message.no-countdown br{display:none}.NDtext{text-decoration:none!important}
+.CD-first-class .FCtext,.CD-first-class .obm_more_info br{display:inline-block}span.FCtext{font-weight:700!important;text-decoration:none!important}
+.similar_products{width:100%;margin-bottom:60px}.similar_products h2{font-size:18px}.similar_products .similar_products_holder{white-space:nowrap;overflow-x:scroll;padding-bottom:10px;position:relative;-webkit-overflow-scrolling:touch}#similar_card_content{display:inline-block;padding-right:10px}.current_card,.similar_products li{display:inline-block;width:105px;margin-right:10px}.current_card a,.similar_products a{display:block;width:100%;transition:all ease-in-out .2s;position:relative;cursor:pointer}.current_card.current_card_active a::before,.similar_products a.current_card_active::before{content:'';position:absolute;width:96%;height:95%;border:3px solid #203750}.current_card img,.similar_products img{display:block;width:100%!important;border:1px solid #eee}.similar_products a:hover{opacity:.7}.similar_products_holder::-webkit-scrollbar{height:8px}
+.similar_products_holder::-webkit-scrollbar-track{-webkit-box-shadow:none;background:#d8d8d8;border-radius:5px}.similar_products_holder::-webkit-scrollbar-thumb{background-color:#203750;height:2px;outline:0;border-radius:6px}.sc_pag_next{display:inline-block;font-weight:700;color:#203750;padding-right:10px;cursor:pointer}
+.product_seo{margin-bottom:40px}
+.product_seo ul{border-bottom:2px solid #f2f2f2;height:31px;margin-bottom:20px}.product_seo li{display:inline-block;font-size:18px;font-weight:700;color:#555;margin:0 20px 0 0;padding-bottom:10px;border-bottom:2px solid #f2f2f2;cursor:pointer;transition:all ease-in-out .2s}.product_seo li:hover{border-bottom:2px solid #555}.product_seo li.active{border-bottom:2px solid #203750;color:#203750}
+.delivery_text,.product_description,.product_review{display:none;margin-bottom:20px;min-height:400px}
+.delivery_text p,.delivery_text p a,.product_description p,.product_description p a{font-size:14px;line-height:22px;color:#555}.open_tab{display:block}.product_review .trustpilot-widget{padding:0}
+
+.product_review .trustpilot-widget iframe{
+    width:100%!important
+}
+.delivery_text_holder{
+    max-height:420px;overflow:hidden;
+    -webkit-transition:max-height ease-in-out .3s;
+    -moz-transition:max-height ease-in-out .3s;
+    transition:max-height ease-in-out .3s
+}
+.delivery_text_holder.expanded_text{
+    max-height:1500px
+    }
+    .delivery_text table{
+        border-spacing:0;margin-bottom:15px;width:100%
+        }.delivery_text table tr td{background:#f2f2f2;color:#555;font-size:14px;line-height:15px;padding:10px;font-weight:700}.delivery_text div.seo_show_more{max-height:930px}.delivery_text table tr td:last-child{text-align:right}.delivery_text table tr td span{display:block;font-weight:400}
+.delivery_text table tr:nth-of-type(even) td{background:#fff}.read_more_delivery{font-size:14px;font-weight:700;color:#203750;cursor:pointer}
+.laybuy_payment_text{font-size:16px;font-weight:700;padding:3px 98px 0 0;display:inline-block;background:url(/Images/LayBuy/logo-laybuy.png) top right no-repeat;background-size:90px auto;margin-top:-17px;cursor:pointer}
+.laybuy_banner{cursor:pointer}.laybuy_banner img{width:100%;max-width:417px}.laybuy_banner:hover{opacity:.8}@media screen and (min-width:736px){.card-pdp .card_size_selection li{margin-right:14px}}@media screen and (min-width:737px) and (max-width:993px){.product_images{width:44%}
+.product_image_holder{width:100%;height:auto;padding:12% 0}.product_image_holder img{position:relative;margin:0 auto;display:block}.laybuy_payment_text{font-size:1.5vw}}@media screen and (max-width:736px){.magnify_large{display:none!important}.card_size_selection li[data-size="10"],.card_size_selection li[data-size="128"],.card_size_selection li[data-size="8"]{width:50%}.card_size_selection li[data-size="11"]{width:50%}.card_size_selection li[data-size="129"],.card_size_selection li[data-size="17"],.card_size_selection li[data-size="40"]{width:33%;height:63px}.card_size_selection li span{font-size:14px}.hover_message{display:none}.product_page_container{padding-top:0}.dpBannerOff .product_page_container{padding-top:0}.product_page_container{width:100%}.product_content{width:100%;float:none;clear:both;margin:auto}
+.product_images{width:65%;margin-bottom:5%}.product_image_holder{width:100%;height:auto;min-height:39vh;padding:12% 0}.product_image_holder img{position:absolute;margin:auto;display:block;max-width:75%}
+.product_content .tp-wrapper .trustpilot-widget{pointer-events:all}.portrait .product_image_holder::after{left:12%}
+.landscape .product_image_holder::after{width:70%;height:36%;top:7%;left:0}
+.square .product_image_holder::after{left:7%;height:55%;width:72%;top:0}.card_size_selection,.personalise_btn,.product_content .trustpilot-widget.star_rating,.product_content h1,.product_seo{width:92%;margin:auto}
+.product_content h1{font-size:18px;line-height:20px}.card_size_selection ul{overflow:auto}.card_size_selection li br{display:inline-block}.card_size_selection li{display:block;margin-bottom:2%;width:33%;float:left;box-sizing:border-box;margin-right:0;line-height:18px;font-size:18px;padding-left:34px;background-size:28px auto}.card_size_selection li.selected_size{background-size:28px auto}.order_by_message.countdown{padding:5% 5% 5% 110px}.order_by_message.no-countdown{padding:5% 5% 10px}.order_by_message br{display:inline-block}.personalise_btn{padding:0;text-align:center;display:block;margin-bottom:8%}.similar_products{width:29%;margin-bottom:0;float:right;margin-right:1%}.similar_products h2{font-size:3.4vw;margin-top:0}.similar_products .similar_products_holder{overflow-y:scroll;height:41vh;overflow-x:hidden;white-space:inherit}.current_card,.similar_products li{display:block;width:85%;margin:0 0 7% 0}.current_card{width:76%}.similar_products_holder::-webkit-scrollbar{width:4px}.product_seo ul{height:28px}
+.product_seo li{font-size:16px}.delivery_text,.product_description,.product_review{margin-bottom:0;padding-bottom:8%}.delivery_text_holder{margin-bottom:3%}.delivery_text p,.delivery_text p a,.delivery_text table tr td,.product_description p,.product_description p a{font-size:12px;line-height:17px}.deliveryCountdown br{display:none}.countdown_time{padding-left:6px}.deliveryOptions ul li{font-size:16px}.fixed-btn{position:fixed;left:0;right:0;bottom:0;z-index:2}#fc_frame,.shortlist_icon{transition:bottom ease-in-out .2s}.add_bottom_padding #fc_frame,.add_bottom_padding .shortlist_icon{bottom:85px}.NCI_active .fixed-btn{bottom:80px}.NCI_active.NCI_active_min .fixed-btn{bottom:25px}a.shortlistsave{width:160px;font-size:22px;margin:0 auto 6%;display:block;padding-left:28px;background-size:20px auto;opacity:1;color:#000}.laybuy_banner{display:none}.laybuy_payment_text{width:auto;box-sizing:border-box;margin:-2% 0 0 4%;font-size:2.8vw}}@media (min-height:740px) and (max-width:736px){.portrait .product_image_holder::after{height:65%}.landscape .product_image_holder::after{height:30%}.square .product_image_holder::after{height:47%}}
+
+.personalise_btn {
+    display: inline-block;
+    background: #203750;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 45px;
+    color: #fff !important;
+    padding: 0 25px;
+    box-shadow: 0 2px 0 #232f3e;
+    border-radius: 4px;
+    margin-bottom: 30px;
+    transition: all ease-in-out .2s;
+}
+.product_seo li {
+    display: inline-block;
+    font-size: 18px;
+    font-weight: 700;
+    color: #555;
+    margin: 0 20px 0 0;
+    padding-bottom: 4px;
+    border-bottom: 2px solid #f2f2f2;
+    cursor: pointer;
+    transition: all ease-in-out .2s;
+}
+
+.product_seo {
+    margin-bottom: 40px;
+    margin-top: 22px;
+}
+
+.like-product-view-area h2 {
+    color: #203750;
+    font-size: 16px;
+    font-family: verdana,arial,helvetica,sans-serif;
+    line-height: inherit;
+    font-size: 18px;
+    font-weight: 700;
+        letter-spacing: 0px;
+   text-transform: none;
+}
+
+.previewer::after {
+    content: '';
+    width: 100%;
+    height: 457px;
+    display: block;
+    background: #fff;
+    position: absolute;
+    z-index: 1;
+    border: 1px solid #eaeaea;
+    left: 4px;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+}
+.magnify_large {
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    border-radius: 100%;
+    box-shadow: 0 0 0 7px rgba(255,255,255,.85), 0 0 7px 7px rgba(0,0,0,.25), inset 0 0 40px 2px rgba(0,0,0,.25);
+    display: none;
+    z-index: 10004;
+    background-repeat: no-repeat;
+    background-color: #fff;
+    background-size: 180% auto;
+    opacity: 0;
+}
+
+#inner{
+    height: 230px;
+}

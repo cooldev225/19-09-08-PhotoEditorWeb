@@ -1,0 +1,97 @@
+/*carousel css*/
+.caroufredsel_wrapper{
+	margin-left: 0px !important;
+}
+#inner {
+	width: 100%;
+	height: 300px;
+	margin-top: 10px;
+	position: relative;
+	overflow: hidden;
+}
+.home_inner_filter{
+	width: 100%;
+	margin-top: 10px;
+	position: relative;
+	overflow: hidden;
+}
+.container-area .filter_row {
+    margin-right: 10px;
+    margin-left: 10px;
+    display: inline-block;
+    text-align: center;
+}
+#carousel div {
+	border: 1px solid #9999993b;
+	background: #fff;
+	width: 140px;
+	height: 230px;
+	float: left;
+	padding: 10px;
+	margin: 0 5px;
+	text-align: center;
+}
+.home_filter_link_css::before{
+	    content: '';
+    display: block;
+    width: 9px;
+    height: 3px;
+    background: #9b6fb1;
+    position: absolute;
+    right: 0;
+    top: 6px;
+    -ms-transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+    transform: rotate(45deg);
+}
+#carousel_ div{
+	background: #fff;
+	width: 25%;
+	float: left;
+	padding: 10px;
+	margin: 14 6px;
+	text-align: left;
+}
+#carousel img{
+	width: 100%;
+    height: 165px;
+}
+#carousel_ div img{
+	width: 100%;
+	    height: 100%;
+}
+#pager,#pager_01{
+	text-align: center;
+	margin-top: 20px;
+	color: #666;
+}
+#pager a,#pager_01 a{
+	color: #666;
+	text-decoration: none;
+	display: inline-block;
+	padding: 5px 10px;
+}
+#pager a:hover,#pager_01 a:hover,#pager_02 a:hover {
+	color: #333;
+}
+#pager a.selected,#pager_01 a.selected,#pager_02 a.selected {
+	background-color: #333;
+	color: #ccc;
+}
+#prev, #next,#prev_01, #next_01,#prev_02, #next_02 {
+	display: block;
+	width: 50px;
+	height: 80px;
+	margin-top: -70px;
+	position: absolute;
+	top: 50%;
+	z-index: 2;
+}
+#prev,#prev_01,#prev_02 {
+	background: url( /assets/dist/images/ui-prev.png ) no-repeat;
+	left: 7px;
+}
+#next,#next_01,#next_02 {
+	background: url( /assets/dist/images/ui-next.png ) no-repeat;
+	right: 0px;
+}
